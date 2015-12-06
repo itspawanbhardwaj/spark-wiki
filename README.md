@@ -23,5 +23,5 @@ Exploring English Wikipedia pageviews by second using Apache Spark 1.5.1
 * Download the data from https://datahub.io/dataset/english-wikipedia-pageviews-by-second and copy the file in 'sample-data' folder
 
 ## Import to eclipse
-compile : sbt compile
-eclipse : sbt eclipse
+* compile : sbt compile
+* eclipse : sbt eclipse
